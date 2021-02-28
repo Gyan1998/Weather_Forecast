@@ -3,7 +3,7 @@ import {Container} from "react-bootstrap";
 import "./style.css";
 
 function CityWeather({cityWeather}){
-	console.log(cityWeather);
+	//console.log(cityWeather);
 	let tem=cityWeather.main.temp;
 	tem-=273.15;
   return (

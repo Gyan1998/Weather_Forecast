@@ -19,7 +19,7 @@ function CityInput({city,setCity,fetchCityWeather}){
 		}
 	}
 
-	console.log(city);
+	//console.log(city);
   return (
   	<Container>
   	<Form>
